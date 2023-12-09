@@ -1,7 +1,8 @@
 # TravelMate
 
+![image](https://github.com/IsadoraCosta19/teste/assets/134560787/e70ff638-48d1-4e76-949b-3c4977bf7852)
 
-![TravelMate](https://1drv.ms/i/s!AoIG1ENZux9a8l7V7DXCfyv0cqH6?e=EJhOdr)
+
 
 # Sobre o Projeto
 
@@ -15,8 +16,6 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 * [Persona](#persona)
 * [Cenário](#cenário)
 * [Prototipos](#protótipos)
-  * [Protótipo lo-fi](#protótipo-lo-fi)
-  * [Protótipo hi-fi](#protótipo-hi-fi)
 * [Relatório Analítico ](#relatório-analítico)
 * [Autores](#autores)
 
@@ -82,3 +81,35 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 **Funcionalidades:**
 - Acesso a descrições, horários de funcionamento, preços e avaliações de atrações.
 - Recomendações personalizadas com base nas preferências do usuário.
+
+# Persona
+
+  ![1(1)](https://github.com/IsadoraCosta19/teste/assets/134560787/6d76d0c5-7a2b-460f-8ed8-95e1f7774889)
+
+
+  ![2(1)](https://github.com/IsadoraCosta19/teste/assets/134560787/35b33358-9be0-4ed0-b158-40ced19dfb2d)
+
+# Cenário
+
+![2(2)](https://github.com/IsadoraCosta19/teste/assets/134560787/dc7a61d2-7bf0-46bc-9b4c-542663707bf4)
+
+![4(1)](https://github.com/IsadoraCosta19/teste/assets/134560787/923cb8b8-d44f-4c7a-b911-14e6a7bba11f)
+
+# Protótipos
+
+## Protótipo lo-fi
+
+![lo-fi1](https://github.com/IsadoraCosta19/teste/assets/134560787/01ee8203-50b8-4a00-9b3f-d016454e0793)
+
+
+## Protótipo hi-fi
+## 1. Avaliação Heurística do app TravelMate
+
+O sistema que será avaliado é o TravelMate. O TravelMate visa simplificar e aprimorar a experiência de viagem, proporcionando aos usuários uma plataforma abrangente para planejar, reservar e organizar suas jornadas. Com funcionalidades como pesquisa de destinos, reserva de voos e acomodações, planejamento de itinerários personalizados e informações detalhadas sobre atrações, o aplicativo busca tornar as viagens mais acessíveis, organizadas e adaptadas às preferências individuais, garantindo uma experiência de viagem memorável.
+
+1.1 Tela Inicial
+
+
+
+
+
