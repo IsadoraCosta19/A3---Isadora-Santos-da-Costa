@@ -104,7 +104,8 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 
 ## Protótipo hi-fi
 
-[Project](https://www.canva.com/design/DAF2cMtYb0Y/vNoaXWoXbkxJ2JmAIB0AXQ/editutm_content=DAF2cMtYb0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Project](https://www.canva.com/design/DAF2cMtYb0Y/OY27yZX_I0c5wWNpD_6peQ/view?mode=prototype)
+
 
 # Relatório Analítico 
 
