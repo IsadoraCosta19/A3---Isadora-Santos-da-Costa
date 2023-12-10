@@ -110,7 +110,7 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 
 ![a3_page-0001](https://github.com/IsadoraCosta19/teste/assets/134560787/71a46aec-3f15-45e1-b046-79134eb0b9b6)
 
-![a3_page-0006](https://github.com/IsadoraCosta19/teste/assets/134560787/4d69237b-cc20-4225-b931-a74f9d230b89)
+![a3_page-0002](https://github.com/IsadoraCosta19/A3---Isadora-Santos-da-Costa/assets/134560787/e3c29b39-c1b5-44c8-bc67-20c8a4a29539)
 
 ![a3_page-0003](https://github.com/IsadoraCosta19/teste/assets/134560787/789d5758-88bb-401e-8ca0-22f8198a82aa)
 
@@ -123,7 +123,7 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 ![a3_page-0007](https://github.com/IsadoraCosta19/teste/assets/134560787/be1a3a69-9fdc-4e37-92dd-8cc14e9189db)
 
 
-# Autores
+# Autore
 Isadora Santoa da Costa - 1302220911<br/>
 
 
