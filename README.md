@@ -103,11 +103,28 @@ O objetivo principal do aplicativo de viagens, denominado TravelMate, é proporc
 
 
 ## Protótipo hi-fi
-## 1. Avaliação Heurística do app TravelMate
 
-O sistema que será avaliado é o TravelMate. O TravelMate visa simplificar e aprimorar a experiência de viagem, proporcionando aos usuários uma plataforma abrangente para planejar, reservar e organizar suas jornadas. Com funcionalidades como pesquisa de destinos, reserva de voos e acomodações, planejamento de itinerários personalizados e informações detalhadas sobre atrações, o aplicativo busca tornar as viagens mais acessíveis, organizadas e adaptadas às preferências individuais, garantindo uma experiência de viagem memorável.
+[Project](https://www.canva.com/design/DAF2cMtYb0Y/vNoaXWoXbkxJ2JmAIB0AXQ/editutm_content=DAF2cMtYb0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-1.1 Tela Inicial
+# Relatório Analítico 
+
+![a3_page-0001](https://github.com/IsadoraCosta19/teste/assets/134560787/71a46aec-3f15-45e1-b046-79134eb0b9b6)
+
+![a3_page-0006](https://github.com/IsadoraCosta19/teste/assets/134560787/4d69237b-cc20-4225-b931-a74f9d230b89)
+
+![a3_page-0003](https://github.com/IsadoraCosta19/teste/assets/134560787/789d5758-88bb-401e-8ca0-22f8198a82aa)
+
+![a3_page-0004](https://github.com/IsadoraCosta19/teste/assets/134560787/96ab5973-876b-477b-aa38-edfe68231b6f)
+
+![a3_page-0005](https://github.com/IsadoraCosta19/teste/assets/134560787/8d760244-bee7-4083-9a68-da1b43787cc4)
+
+![a3_page-0006](https://github.com/IsadoraCosta19/teste/assets/134560787/ce64f423-f912-49b6-b12c-69d5e6076a11)
+
+![a3_page-0007](https://github.com/IsadoraCosta19/teste/assets/134560787/be1a3a69-9fdc-4e37-92dd-8cc14e9189db)
+
+
+# Autores
+Isadora Santoa da Costa - 1302220911<br/>
 
 
 
